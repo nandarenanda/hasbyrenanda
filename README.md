@@ -1,2 +1,63 @@
-# web
- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>NANDA SNACK</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#fashion">Fashion</a></li>
+                <li><a href="#food">Food</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main>
+    <section id="home">
+        <div class="container">
+            <h2>Welcome to NANDA SNACK</h2>
+            <p>Your one-stop shop for food!</p>
+        </div>
+    </section>
+    <section id="fashion">
+        <div class="container">
+            <h2>Fashion</h2>
+            <!-- Add informative and relevant content about fashion products -->
+        </div>
+    </section>
+    <section id="food">
+        <div class="container">
+            <h2>Food</h2>
+            <!-- Add informative and relevant content about food products -->
+        </div>
+    </section>
+    <section id="services">
+        <div class="container">
+            <h2>Services</h2>
+            <!-- Add informative and relevant content about services offered -->
+        </div>
+    </section>
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <!-- Add contact information and a contact form -->
+        </div>
+    </section>
+</main>
+<footer>
+    <div class="container">
+        <p>&copy; 2024 Toko XYZ. All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>
